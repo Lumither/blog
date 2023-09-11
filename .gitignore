@@ -1,5 +1,6 @@
 node_modules
 
+/.next
 /.cache
 /build
 /public/build
